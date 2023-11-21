@@ -1,0 +1,15 @@
+/* App.css */
+.container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .route-container {
+    margin-top: 20px;
+  }
+  

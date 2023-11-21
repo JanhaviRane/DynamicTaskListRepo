@@ -1,0 +1,12 @@
+/* Task.module.css */
+.task {
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+  
+  .app {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  

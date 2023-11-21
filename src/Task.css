@@ -1,0 +1,13 @@
+/* Task.css */
+.task-card {
+    margin-bottom: 10px;
+  }
+  
+  .task-text {
+    cursor: pointer;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
